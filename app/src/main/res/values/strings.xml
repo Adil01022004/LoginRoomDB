@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RoomDB</string>
+    <string name="login">Login</string>
+    <string name="email_hint">e-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">User Login</string>
+    <string name="music_player_name">Spotify</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register_text">Don\'t you have an account? Register</string>
+    <string name="login_text">Do you have an account? Log in</string>
+
+</resources>
